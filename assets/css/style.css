@@ -152,3 +152,10 @@ a {
     border-radius: 5px;
     font-weight: 500;
 }
+
+.footer {
+    background-color: #1f2937;
+    color: #e5e7eb;
+    text-align: center;
+    font-weight: 300;
+}
